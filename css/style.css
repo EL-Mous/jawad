@@ -409,7 +409,7 @@ p {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: linear-gradient(60deg, #3d4752 0%, #527091 100%);
+    background: #A7C7E7;
     color: #10cab7;
 }
 #projects .project-info h1 {
