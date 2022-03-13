@@ -436,7 +436,7 @@ p {
 #projects .project-info p {
     color: white;
     font-size: 2rem;
-    letter-spacing: .2rem;
+    letter-spacing: .1rem;
     text-align: right;
 }
 #projects .project-img {
