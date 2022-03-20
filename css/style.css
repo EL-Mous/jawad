@@ -220,7 +220,6 @@ p {
     background-position: top center;
     position: relative;
     z-index: 1;
-    width: 100%;
 }
 #hero::after {
     content: '';
