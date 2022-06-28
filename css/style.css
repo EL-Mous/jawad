@@ -317,6 +317,7 @@ p {
 }
 #services .service-item:hover {
     box-shadow: 0 0 20px 0 rgba(17, 17, 17, 0.2);
+    transform: scale(1.05);
 }
 #services .service-bottom .icon {
     height: 75px;
